@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+<ScrollView
+    android:layout_marginTop="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+   <LinearLayout
+       android:orientation="horizontal"
+       android:layout_width="match_parent"
+
+       android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+       android:textSize="20dp"
+        android:textColor="#0390ac"
+        android:text="Disease Name:"
+        android:layout_height="wrap_content" />
+<TextView
+    android:layout_width="wrap_content"
+    android:id="@+id/client_name"
+    android:textSize="20dp"
+    android:textColor="#000"
+    android:layout_marginLeft="10dp"
+    android:layout_height="wrap_content" />
+   </LinearLayout>
+
+ <LinearLayout
+     android:orientation="horizontal"
+     android:layout_width="match_parent"
+     android:layout_marginTop="20dp"
+     android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#0390ac"
+        android:text="Description:"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/place_of_sale"
+
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000"
+        android:layout_height="wrap_content" />
+ </LinearLayout>
+
+
+   <LinearLayout
+       android:orientation="horizontal"
+       android:layout_width="match_parent"
+       android:layout_marginTop="20dp"
+       android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#0390ac"
+        android:text="Appointment Date:"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:id="@+id/date_of_sale"
+        android:layout_marginLeft="10dp"
+
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_height="wrap_content" />
+   </LinearLayout>
+
+
+   <LinearLayout
+       android:orientation="horizontal"
+       android:layout_width="match_parent"
+       android:layout_marginTop="20dp"
+       android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="wrap_content"
+        android:textSize="20dp"
+        android:textColor="#0390ac"
+        android:text="Appointment Time "
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/time_of_sells"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:layout_height="wrap_content" />
+   </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+</LinearLayout>

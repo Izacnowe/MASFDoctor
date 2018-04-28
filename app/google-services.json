@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "622688655309",
+    "firebase_url": "https://ask-your-doctor.firebaseio.com",
+    "project_id": "ask-your-doctor",
+    "storage_bucket": "ask-your-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622688655309:android:848fd3ea15930392",
+        "android_client_info": {
+          "package_name": "com.developers.paradise.android3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622688655309-pn66ii3gitteq8nak9e39rnjg2b9eesg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developers.paradise.android3",
+            "certificate_hash": "8c2b457c858e8d25a35cd698a04ea416bdecc86c"
+          }
+        },
+        {
+          "client_id": "622688655309-j5mt3f9u33vnpn8t1fljir43fbp9qkee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWX2VunjIe_CRdXwoxQy7r9hKNGM8-DZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622688655309-j5mt3f9u33vnpn8t1fljir43fbp9qkee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622688655309:android:047178466ac41639",
+        "android_client_info": {
+          "package_name": "com.example.masfdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622688655309-6f0tfklh6p238vfebqn85p0k4rps7cfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masfdoctor",
+            "certificate_hash": "1d6f8a13a0617f38a719c15a15f1bf41f6b4bf5d"
+          }
+        },
+        {
+          "client_id": "622688655309-j5mt3f9u33vnpn8t1fljir43fbp9qkee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWX2VunjIe_CRdXwoxQy7r9hKNGM8-DZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622688655309-j5mt3f9u33vnpn8t1fljir43fbp9qkee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622688655309:android:7e33b3561f6df808",
+        "android_client_info": {
+          "package_name": "com.paradise.malariastressfighter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622688655309-9tq0emaarppa1rugpivscnb1as5v7qkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paradise.malariastressfighter",
+            "certificate_hash": "1d6f8a13a0617f38a719c15a15f1bf41f6b4bf5d"
+          }
+        },
+        {
+          "client_id": "622688655309-fdm0tvh21jocj35ptf3006jnhoc0ks7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.paradise.malariastressfighter",
+            "certificate_hash": "8c2b457c858e8d25a35cd698a04ea416bdecc86c"
+          }
+        },
+        {
+          "client_id": "622688655309-j5mt3f9u33vnpn8t1fljir43fbp9qkee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWX2VunjIe_CRdXwoxQy7r9hKNGM8-DZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622688655309-j5mt3f9u33vnpn8t1fljir43fbp9qkee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
